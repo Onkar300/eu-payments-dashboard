@@ -1,0 +1,4 @@
+customer_segment,total_transactions,total_volume_eur,avg_amount_eur,volume_share_pct,sepa_credit_count,sepa_debit_count,swift_count,card_count,approval_rate_pct,failure_rate_pct,avg_risk_score,flagged_count,flag_rate_pct,cross_border_pct,off_hours_count,off_hours_pct
+Retail,6108,56283622.58,9214.74,50.2,2696,1496,1014,902,77.21,8.38,17.59,305,4.99,94.48,2041,33.42
+SME,4101,31278994.89,7627.16,27.9,1758,1056,652,635,77.49,8.32,15.9,86,2.1,94.22,1400,34.14
+Corporate,1791,24549366.12,13707.07,21.9,785,427,296,283,78.56,6.53,17.49,48,2.68,94.53,605,33.78
